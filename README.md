@@ -38,5 +38,5 @@
 
 ### 🌐 Connect with me
 <p>
-<a href="https://linkedin.com/in/YOURID">LinkedIn</a>
+<a href="https://www.linkedin.com/in/jyoti-sharma-b12330381/">LinkedIn</a>
 </p>
