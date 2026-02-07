@@ -1,42 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jyoti</h1>
-<h3 align="center">First Year CSE Student | Learning Web Dev & DSA</h3>
+<!-- 
+  ┌───────────────────────────────────────────────────────────────┐
+  │                  🌟  Jyoti's GitHub Profile  🌟               │
+  └───────────────────────────────────────────────────────────────┘
+-->
 
----
+<div align="center">
 
-🌱 I’m currently learning  
-- HTML, CSS, JavaScript  
-- Python  
-- Data Structures  
+<!-- Animated Header / Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hello!%20I'm%20Jyoti%20👋&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="header" width="100%"/>
 
-💻 I’m building  
-- Web projects  
-- College projects  
-- GitHub portfolio  
+<!-- Optional typing effect (remove if you don't like it) -->
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Things;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+</h3>
 
----
+<br/>
 
-### 🚀 Languages & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode" />
-</p>
+<!-- Quick intro -->
+**`A passionate developer crafting beautiful & performant applications`**
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical"/>
-</p>
-
----
-
-### 🔥 Streak
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=tokyonight"/>
-</p>
-
----
-
-### 🌐 Connect with me
-<p>
-<a href="https://www.linkedin.com/in/jyoti-sharma-b12330381/">LinkedIn</a>
-</p>
+<!-- Animated coding / working gif right at the top -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG9pN2l2b3l0cG9pajl0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG5oZ3l0eG
