@@ -1,8 +1,11 @@
 <!--Banner-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f0f23,1a1a3d&height=200&section=header&text=Jyoti323%20-%20Full%20Stack%20Dev&fontSize=50&fontColor=00ffea&animation=blink&fontAlignY=40" alt="jyoti323 Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20World%20✨&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=45" alt="Welcome Banner"/>
 </div>
+
+<br/>
+<!-- Your other content like typing effect, skills, stats go here -->
  
 
 
