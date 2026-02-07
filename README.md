@@ -9,9 +9,9 @@
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,tailwind,nodejs,express,mongodb,git&perline=8" />
 
   <!-- Stats Row -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Jyoti323&theme=onedark&show_icons=true&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jyoti323&theme=onedark&hide_border=true"/>
-
+  <div align="center">
+![Jyoti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jyoti323&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0f0f0f&title_color=61dafb&text_color=ffffff&hide=issues&border_radius=12&hide_title=false)
+</div>
   
   <h3>Favorite Vibes</h3>
   <img src="https://media.giphy.com/media/...your-best-gif-1..." width="30%"/>
