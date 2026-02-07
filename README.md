@@ -1,4 +1,5 @@
 <!--Banner-->
+![jyoti323 Banner Image](./banner.png)
 
 
 <!--Night Owl image-->
