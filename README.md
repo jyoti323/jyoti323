@@ -86,7 +86,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/jyoti323/Unsupervised-ML-Iris">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Unsupervised-ML-Iris" />
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=jyoti323&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Unsupervised-ML-Iris" />
         </a>
       </p>
     </td>
@@ -105,7 +105,7 @@
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=yoti323&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti323&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
 ---
