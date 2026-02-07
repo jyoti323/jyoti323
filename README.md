@@ -1,7 +1,7 @@
 <!--Banner-->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%20to%20My%20World%20✨&fontSize=65&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=45" alt="Welcome Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jyoti323%20👋%20Welcome!&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Jyoti323 Banner" width="100%"/>
 </div>
 
 <br/>
