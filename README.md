@@ -90,6 +90,7 @@
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
+        ![snake gif](https://github.com/jyoti323/jyoti323/blob/output/github-contribution-grid-snake.svg)
         <a href="https://github.com/jyoti323">
           <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jyoti323&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
