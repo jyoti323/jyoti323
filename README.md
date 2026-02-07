@@ -19,5 +19,5 @@
   <img src="https://media.giphy.com/media/...your-best-gif-3..." width="30%"/>
 
   <br/><br/>
-  <a href="https://linkedin.com/in/..."><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/></a>
+  <a href="https://linkedin.com/in/..."><img src="https://www.linkedin.com/in/jyoti-sharma-b12330381/"/></a>
 </div>
