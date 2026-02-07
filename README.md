@@ -1,5 +1,8 @@
 <!--Banner-->
-![jyoti323 Banner Image](./banner.png)
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=180&section=header&text=Jyoti323%20323%20-%20Developer%20%F0%9F%9A%80&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="jyoti323 Banner"/>
+</div>
 
 
 <!--Night Owl image-->
