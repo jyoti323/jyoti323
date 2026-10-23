@@ -1,193 +1,165 @@
-<!--Banner-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jyoti%20Sharma%20👋&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Jyoti Sharma Banner" width="100%"/>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Jyoti323%20👋%20Welcome!&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=45" alt="Jyoti323 Banner" width="100%"/>
+  <a href="https://github.com/jyoti323">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C56A90&center=true&vCenter=true&width=600&lines=Hi,+I'm+Jyoti+Sharma+👩‍💻;Engineering+Aspirant+🚀;B.Tech+CSE+(Data+Science);Machine+Learning+Enthusiast+🤖;Full+Stack+Learner+🌱" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
-<!-- Your other content like typing effect, skills, stats go here -->
- 
 
-
-<!--Night Owl image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jyoti323&label=Profile%20views&color=ff69b4&style=for-the-badge&logo=star" alt="Profile views" />
+  <a href="https://github.com/jyoti323?tab=followers"><img src="https://img.shields.io/github/followers/jyoti323?style=for-the-badge&logo=github&color=c56a90&labelColor=220a28" alt="Followers"/></a>
+  <a href="https://github.com/jyoti323?tab=repositories"><img src="https://img.shields.io/github/stars/jyoti323?style=for-the-badge&logo=github&color=ffeb95&labelColor=220a28" alt="Stars"/></a>
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ Jyoti Sharma! 
+---
 
-<br /> 
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me
 
-<!--Start Intro-->               
-<p align="left">I am a Btech cse (DATA SCIENCE) student and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+I'm a **B.Tech CSE (Data Science)** student and **Machine Learning enthusiast** with a love for building things with Python, React, Node.js and data.
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
-<!--End Intro-->
+- 🎯 Engineering aspirant, learning something new every day
+- 🌱 Currently deepening my knowledge in Machine Learning, AI and advanced React patterns
+- ❤️ Contributing to Open Source
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=jyoti323&label=Profile%20views&color=ff69b4&style=for-the-badge&logo=star" alt="jyoti323" style="padding-right:20px;" />
+---
+
+<h2 align="center">🛠️ Languages & Tools</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,git,html,css,js,nodejs,express,mongodb,react&perline=6" alt="Tech stack" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
 
+<h2 align="center">🎓 Skills as an Engineering Aspirant</h2>
 
-<!--Languages and Tools Section-->       
-<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ </h2> 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
-  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
-  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
-</picture>
-<br />
+<details open>
+<summary><b>💻 Programming & Problem Solving</b></summary>
+<br/>
 
-<h3 align="left">Current Learning</h3>
-<ul align="left">
-  <li>Deepening my knowledge in Machine Learning and AI.</li>
-  <li>Exploring advanced React.js patterns and state management techniques.</li>
-</ul>
-  
+- Python and Java for logic building and data work
+- Data structures and algorithms practice
+- SQL for querying and managing relational data
 
-<br />
-<br />
-<br />
+</details>
 
+<details>
+<summary><b>🌐 Web Development</b></summary>
+<br/>
 
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js, REST APIs
+- Database: MongoDB, SQL (RDBMS)
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+</details>
+
+<details>
+<summary><b>🤖 Data Science & Machine Learning</b></summary>
+<br/>
+
+- Machine Learning fundamentals (supervised and unsupervised)
+- Data visualization and analysis with Python
+- Exploring AI and advanced ML concepts
+
+</details>
+
+<details>
+<summary><b>🧰 Tools & Workflow</b></summary>
+<br/>
+
+- Git and GitHub for version control
+- Open source contribution
+- Continuous learning and curiosity
+
+</details>
+
+---
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/jyoti323">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=jyoti323&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>GitHub Stats</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=jyoti323&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/jyoti323">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Streak Stats</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=jyoti323&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">
-        <a href="https://github.com/jyoti323/Unsupervised-ML-Iris">
-          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=jyoti323&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Unsupervised-ML-Iris" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Latest Project</h3>
+      <a href="https://github.com/jyoti323/Unsupervised-ML-Iris">
+        <img width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=jyoti323&repo=Unsupervised-ML-Iris&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Unsupervised-ML-Iris" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
-      <p align="center">
-        ![snake gif](https://github.com/jyoti323/jyoti323/blob/output/github-contribution-grid-snake.svg)
-        <a href="https://github.com/jyoti323">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=jyoti323&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <h3>Top Languages</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=jyoti323&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+      </a>
     </td>
   </tr>
 </table>
-<br />
-<!--Contribution Graph-->
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti323&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+  <img src="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</div>
+
+<h2 align="center">📈 Contribution Graph 📈</h2>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti323&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="Contribution graph" />
 </div>
 
 ---
 
-<!--Dynamic Quote card updates everyday at 12 PM--> 
-<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<h2 align="center">🤝 Let's Connect</h2>
 
+<p align="center">
+  <a href="https://github.com/jyoti323"><img src="https://img.shields.io/badge/GitHub-jyoti323-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h2 align="center">🌟 Thought of the Day 🌟</h2>
 
 <!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20matters%20not%20what%20someone%20is%20born%2C%20but%20what%20they%20grow%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+  <img src="https://readme-daily-quotes.vercel.app/api?author=Albus%20Dumbledore&quote=It%20matters%20not%20what%20someone%20is%20born%2C%20but%20what%20they%20grow%20to%20be.&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
 <!--ENDS_HERE_QUOTE_CARD-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
