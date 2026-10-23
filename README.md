@@ -166,22 +166,6 @@ I'm a **B.Tech CSE (Data Science)** student and **Machine Learning enthusiast** 
   </tr>
 </table>
 
-<h2 align="center">🏆 Trophies 🏆</h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jyoti323&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
-  </a>
-</div>
-
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-snake.svg" />
-  </picture>
-</div>
-
 <h2 align="center">🟩 Contribution Calendar 🟩</h2>
 <div align="center">
   <img src="https://ghchart.rshah.org/c56a90/jyoti323" alt="Contribution calendar" width="90%" />
