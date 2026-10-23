@@ -182,7 +182,7 @@ I'm a **B.Tech CSE (Data Science)** student and **Machine Learning enthusiast** 
 
 <p align="center">
   <a href="https://github.com/jyoti323"><img src="https://img.shields.io/badge/GitHub-jyoti323-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/jyoti-sharma-b12330381?utm_source=share_via&utm_content=profile&utm_medium=member_android"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
