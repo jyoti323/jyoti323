@@ -102,15 +102,29 @@ I'm a **B.Tech CSE (Data Science)** student and **Machine Learning enthusiast** 
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <h3>GitHub Stats</h3>
+      <h3>Overall Stats</h3>
       <a href="https://github.com/jyoti323">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=jyoti323&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=jyoti323&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
       </a>
     </td>
     <td width="50%" align="center">
       <h3>Streak Stats</h3>
       <a href="https://github.com/jyoti323">
-        <img src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=jyoti323&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        <img src="https://streak-stats.demolab.com/?user=jyoti323&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff&currStreakLabel=ffffff&border=c56a90" alt="Streak Stats" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Top Languages</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=jyoti323&layout=donut&langs_count=8&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>Most Used (Compact)</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=jyoti323&layout=compact&langs_count=8&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages Compact" />
       </a>
     </td>
   </tr>
@@ -118,26 +132,64 @@ I'm a **B.Tech CSE (Data Science)** student and **Machine Learning enthusiast** 
     <td width="50%" align="center">
       <h3>Latest Project</h3>
       <a href="https://github.com/jyoti323/Unsupervised-ML-Iris">
-        <img width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=jyoti323&repo=Unsupervised-ML-Iris&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Unsupervised-ML-Iris" />
+        <img width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=jyoti323&repo=Unsupervised-ML-Iris&show_owner=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Unsupervised-ML-Iris" />
       </a>
     </td>
     <td width="50%" align="center">
-      <h3>Top Languages</h3>
+      <h3>Profile Details</h3>
       <a href="https://github.com/jyoti323">
-        <img src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=jyoti323&layout=compact&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Languages" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyoti323&theme=nord_dark" alt="Profile Details" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>Repos per Language</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jyoti323&theme=nord_dark" alt="Repos per Language" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>Most Commit Language</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jyoti323&theme=nord_dark" alt="Most Commit Language" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>Productive Time</h3>
+      <a href="https://github.com/jyoti323">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jyoti323&theme=nord_dark&utcOffset=5.5" alt="Productive Time" />
       </a>
     </td>
   </tr>
 </table>
 
+<h2 align="center">🏆 Trophies 🏆</h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=jyoti323&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=7" alt="Trophies" />
+  </a>
+</div>
+
 <h2 align="center">🐍 Contribution Snake 🐍</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jyoti323/jyoti323/output/github-snake.svg" />
+  </picture>
+</div>
+
+<h2 align="center">🟩 Contribution Calendar 🟩</h2>
+<div align="center">
+  <img src="https://ghchart.rshah.org/c56a90/jyoti323" alt="Contribution calendar" width="90%" />
 </div>
 
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti323&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=false" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyoti323&bg_color=220a28&color=ffffff&line=c56a90&point=ffeb95&area=true&hide_border=true&custom_title=Jyoti%20Sharma%27s%20Contribution%20Graph" alt="Contribution graph" />
 </div>
 
 ---
