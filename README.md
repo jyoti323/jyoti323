@@ -50,3 +50,12 @@ I’m a B.Tech CSE student interested in turning data and code into useful, thou
 ### [Unsupervised ML — Iris](https://github.com/jyoti323/Unsupervised-ML-Iris)
 
 An exploration of unsupervised machine learning using the Iris dataset. Visit the repository for the implementation, methodology, and results.
+
+## GitHub activity
+
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti323&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)](https://github.com/jyoti323)
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti323&layout=compact&hide_border=true&theme=transparent)](https://github.com/jyoti323)
+
+</div>
