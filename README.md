@@ -59,3 +59,15 @@ An exploration of unsupervised machine learning using the Iris dataset. Visit th
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti323&layout=compact&hide_border=true&theme=transparent)](https://github.com/jyoti323)
 
 </div>
+
+## Get in touch
+
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jyoti-sharma-b12330381/) or [GitHub](https://github.com/jyoti323). I’m always glad to connect with people working on data, machine learning, and software.
+
+---
+
+<div align="center">
+
+*Thanks for stopping by.*
+
+</div>
