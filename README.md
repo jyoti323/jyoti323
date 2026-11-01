@@ -62,7 +62,7 @@ An exploration of unsupervised machine learning using the Iris dataset. Visit th
 
 ## Get in touch
 
-The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/jyoti-sharma-b12330381/) or [GitHub](https://github.com/jyoti323). I’m always glad to connect with people working on data, machine learning, and software.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jyoti-sharma-b12330381/) or through [GitHub](https://github.com/jyoti323). I’m happy to meet others interested in data, machine learning, and software.
 
 ---
 
