@@ -2,7 +2,7 @@
 
 # Jyoti Sharma
 
-### Computer Science Student · Data Science & Machine Learning
+### B.Tech CSE (Data Science) · Machine Learning & Software
 
 I’m a B.Tech CSE student interested in turning data and code into useful, thoughtful software. I’m building my foundations across machine learning and web development, one project at a time.
 
