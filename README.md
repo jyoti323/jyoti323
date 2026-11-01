@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><strong>Jyoti Sharma</strong></h1>
+<img src="./assets/profile-header.svg" alt="Jyoti Sharma — Computer Science, Data Science & Machine Learning" width="100%" />
 
 ### B.Tech CSE (Data Science) · Machine Learning & Software
 
