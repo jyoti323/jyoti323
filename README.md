@@ -19,3 +19,12 @@ I’m a B.Tech CSE student interested in turning data and code into useful, thou
 - 🤖 Exploring machine learning, data analysis, and practical AI
 - 🌐 Learning to build full-stack applications and REST APIs
 - 🌱 Interested in open source, steady learning, and collaborative projects
+
+## Areas of focus
+
+| Area | Current interests |
+| --- | --- |
+| Data & machine learning | Python, data analysis, visualization, ML fundamentals |
+| Web development | JavaScript, React, Node.js, Express, REST APIs |
+| Computer science | Java, problem solving, data structures, SQL |
+| Tools | Git, GitHub, MongoDB, MySQL |
