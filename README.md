@@ -24,7 +24,7 @@ I’m a B.Tech CSE student interested in turning data and code into useful, thou
 
 | Area | Current interests |
 | --- | --- |
-| Data & machine learning | Python, data analysis, visualization, ML fundamentals |
+| Data & machine learning | Python, data analysis, visualization, machine learning fundamentals |
 | Web development | JavaScript, React, Node.js, Express, REST APIs |
 | Computer science | Java, problem solving, data structures, SQL |
 | Tools | Git, GitHub, MongoDB, MySQL |
