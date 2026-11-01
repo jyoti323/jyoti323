@@ -1,6 +1,6 @@
 <div align="center">
 
-# Jyoti Sharma
+<h1 align="center"><strong>Jyoti Sharma</strong></h1>
 
 ### B.Tech CSE (Data Science) · Machine Learning & Software
 
