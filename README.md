@@ -55,8 +55,13 @@ An exploration of unsupervised machine learning using the Iris dataset. Visit th
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoti323&show_icons=true&hide_border=true&rank_icon=github&theme=transparent)](https://github.com/jyoti323)
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoti323&layout=compact&hide_border=true&theme=transparent)](https://github.com/jyoti323)
+<a href="https://github.com/jyoti323">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jyoti323&theme=default" alt="GitHub contribution summary for Jyoti Sharma" width="100%" />
+</a>
+
+<a href="https://github.com/jyoti323">
+  <img src="https://streak-stats.demolab.com?user=jyoti323&theme=default&hide_border=true" alt="GitHub contribution streak for Jyoti Sharma" />
+</a>
 
 </div>
 
