@@ -45,11 +45,15 @@ I’m a B.Tech CSE student interested in turning data and code into useful, thou
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## Featured project
+## Featured projects
 
 ### [Unsupervised ML — Iris](https://github.com/jyoti323/Unsupervised-ML-Iris)
 
 An exploration of unsupervised machine learning using the Iris dataset. Visit the repository for the implementation, methodology, and results.
+
+### [E-Commerce Data Engineering & Analytics Pipeline](https://github.com/jyoti323/E-Commerce-Data-Engineering-Analytics-Pipeline)
+
+An end-to-end e-commerce data pipeline that extracts and validates source data, transforms it, and loads it into a warehouse for analytics on sales, customers, products, and delivery performance.
 
 ## GitHub activity
 
