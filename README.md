@@ -12,3 +12,10 @@ I’m a B.Tech CSE student interested in turning data and code into useful, thou
 </div>
 
 ---
+
+## About
+
+- 🎓 Studying Computer Science and Engineering with a focus on Data Science
+- 🤖 Exploring machine learning, data analysis, and practical AI
+- 🌐 Learning to build full-stack applications and REST APIs
+- 🌱 Interested in open source, steady learning, and collaborative projects
