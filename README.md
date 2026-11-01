@@ -44,3 +44,9 @@ I’m a B.Tech CSE student interested in turning data and code into useful, thou
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
+
+## Featured project
+
+### [Unsupervised ML — Iris](https://github.com/jyoti323/Unsupervised-ML-Iris)
+
+An exploration of unsupervised machine learning using the Iris dataset. Visit the repository for the implementation, methodology, and results.
